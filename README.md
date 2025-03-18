@@ -70,6 +70,5 @@ The script performs the following steps:
 - Try other advanced models like Neural Networks or Gradient Boosting variations
 - Integrate real-time customer data for live churn prediction
 
-## 📜 License
-This project is open-source and free to use for educational and research purposes.
+
 
